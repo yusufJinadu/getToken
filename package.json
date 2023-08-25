@@ -1,0 +1,23 @@
+{
+  "name": "gettoken",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000e\u0000t\u0000T\u0000o\u0000k\u0000e\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufJinadu/getToken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufJinadu/getToken/issues"
+  },
+  "homepage": "https://github.com/yusufJinadu/getToken#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
